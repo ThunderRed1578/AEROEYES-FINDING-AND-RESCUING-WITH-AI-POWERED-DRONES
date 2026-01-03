@@ -47,19 +47,42 @@ I. [Project Overview](#i)
 
 II. [Dataset](#ii)
 
-III. [File Structure](#v)
+1. [Dataset DL Project](#ii_1)
 
-IV. [How to Run](#vi)
+2. [Grounding Dino Distillation Dataset](#ii_2)
+
+3. [Yolo11s Augmentation Dataset Creation](#ii_3)
+
+4. [Train ZAIC DL](#ii_4)
+
+5. [Test Dataset](#ii_5)
+
+6. [Annotation](#ii_6)
+
+7. [ZAIC Test Frames](#ii_7)
+
+8. [Yolo World Distill](#ii_8)
+
+III. [File Structure](#iii)
+
+IV. [How to Run](#iv)
+
+1. [Pipeline from scratch](#iv_1)
+
+2. [Inference](#iv_2)
 
 V. [Dependencies](#v)
 
 VI. [Reference](#vi)
 
+1. [Official Documentation & Repositories](#vi_1)
+
+2. [Research Papers & Technical Reports](#vi_2)
 ---
 
 <h1 id="i" style="font-weight: bold">I. Project Overview</h1>
 
-![Pipeline Structure](pipeline_structure.png)
+![Pipeline Structure](pipeline_structure_final.png)
 
 AeroEyes is a specialized computer vision solution developed for the Zalo AI Challenge 2025 (AeroEyes task), addressing the critical need for automated object detection in disaster response scenarios. This project focuses on reference-based object search, where the goal is to localize specific target objects (both spatially and temporally) within drone-captured videos, given only a small set of reference images.  
 
@@ -298,7 +321,6 @@ URL: [SAM2](https://docs.ultralytics.com/vi/models/sam/)
 [3] Liu, S., et al. GroundingDINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection.
 
 GitHub: [IDEA-Research/GroundingDINO](https://github.com/IDEA-Research/GroundingDINO)
-
 
 <h2 id="vi_2" style="font-weight: bold"> 2. Research Papers & Technical Reports</h2>
 
