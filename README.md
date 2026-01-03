@@ -3,14 +3,18 @@
 <h3 align="center"><i>README</i></h3>
 <p align="center"><i>Jan 3, 2026</i></p>
 
+<div align="center">
+
 | Name | ID |
-| --- | --- |
+|:---:|:---:|
 | Đinh Viết Lợi | 22120188 |
 | Nguyễn Trần Lợi | 22120190 |
 | Nguyễn Nhật Long | 22120194 |
 | Nguyễn Lê Tấn Phát | 22120262 |
 | Dương Ngọc Kiều Trinh | 22120389 |
 | Nguyễn Phạm Tú Uyên | 22120422 |
+
+</div>
 
 ---
 
