@@ -6,7 +6,7 @@
 <div align="center">
 
 | Name | ID |
-|:---:|:---:|
+|---|---|
 | Đinh Viết Lợi | 22120188 |
 | Nguyễn Trần Lợi | 22120190 |
 | Nguyễn Nhật Long | 22120194 |
