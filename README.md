@@ -236,7 +236,6 @@ It is designed for training and evaluating Yolo World model, including distilled
 │   ├── 📄 yolo11s-augmentation-dataset-creation.ipynb
 │   └── 📄 yoloworld-distillation-dataset-creation.ipynb
 ├── 📁 training
-│   ├── 📝 README.md
 │   ├── 📄 siamese-train-distillation.ipynb
 │   ├── 📄 yolo11s-train-augmentation.ipynb
 │   ├── 📄 yolov8s-train-augmentation.ipynb
