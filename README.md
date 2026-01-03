@@ -69,7 +69,7 @@ Traditional object detection methods often struggle with aerial imagery due to s
 
 <h1 id="ii" style="font-weight: bold">II. Dataset</h1>
 
-<h2 id="ii_1" style="font-weight: bold">1. Dataset_DL_Project</h2>
+<h2 id="ii_1" style="font-weight: bold">1. Dataset DL Project</h2>
 
 [Dataset_DL_Project](https://www.kaggle.com/datasets/loinguyen57/dataset-dl-project)
 
@@ -94,7 +94,7 @@ observing/
             └── drone_video.mp4 # Object video
 ```
 
-<h2 id="ii_2" style="font-weight: bold">2. grounding-dino-distillation-dataset</h2>
+<h2 id="ii_2" style="font-weight: bold">2. Grounding Dino Distillation Dataset</h2>
 
 [grounding-dino-distillation-dataset](https://www.kaggle.com/datasets/trinhdngngckiu/groundingdino-distillation-dataset)
 
@@ -144,7 +144,7 @@ zaic_yolo/
 └── yolo11s.pt           # YOLOv11-small weights
 ```
 
-<h2 id="ii_4" style="font-weight: bold">4. Train_ZAIC_DL</h2>
+<h2 id="ii_4" style="font-weight: bold">4. Train ZAIC DL</h2>
 
 [Train_ZAIC_DL](https://www.kaggle.com/datasets/loinguyen57/train-zaic-dl)
 
@@ -181,7 +181,7 @@ All metadata and labels are stored in a single JSON file, which defines the data
 └── annotations.json   # Dataset annotations and metadata
 ```
 
-<h2 id="ii_7" style="font-weight: bold">7. ZAIC_Test_Frames</h2>
+<h2 id="ii_7" style="font-weight: bold">7. ZAIC Test Frames</h2>
 
 [ZAIC_Test_Frames](https://www.kaggle.com/datasets/loinguyen57/zaic-test-frames)
 
@@ -285,14 +285,37 @@ Python: 3.11.13
 
 <h1 id="vi" style="font-weight: bold">VI. Reference</h1>
 
-[1] Ultralytics. *YOLO by Ultralytics*.  
-  URL: 
-  - https://docs.ultralytics.com/vi/models/yolo11/
-  - https://docs.ultralytics.com/vi/models/yolov8/
-  - https://docs.ultralytics.com/vi/models/yolo-world/
+<h2 id="vi_1" style="font-weight: bold"> 1. Official Documentation & Repositories</h2>
 
-[2] Ultralytics. *SAM2 by Ultralytics*.  
-  URL: https://docs.ultralytics.com/vi/models/sam/
+[1] Ultralytics. YOLOv8, YOLO11, and YOLO-World Documentation.
 
-[3] IDEA Research & contributors. *GroundingDINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection*.  
-  GitHub repository: https://github.com/IDEA-Research/GroundingDINO
+[YOLO11](https://docs.ultralytics.com/vi/models/yolo11/) | [YOLOv8](https://docs.ultralytics.com/vi/models/yolov8/) | [YOLO-World](https://docs.ultralytics.com/vi/models/yolo-world/)
+
+[2] Ultralytics. SAM2 (Segment Anything Model 2) by Ultralytics.
+
+URL: [SAM2](https://docs.ultralytics.com/vi/models/sam/)
+
+[3] Liu, S., et al. GroundingDINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection.
+
+GitHub: [IDEA-Research/GroundingDINO](https://github.com/IDEA-Research/GroundingDINO)
+
+
+<h2 id="vi_2" style="font-weight: bold"> 2. Research Papers & Technical Reports</h2>
+
+[4] Liang, J., et al. (2021). CBNetV2: A Composite Backbone Network Architecture for Object Detection. * arXiv: [2110.12638](https://arxiv.org/abs/2110.12638)
+
+[5] Liu, Z., et al. (2021). Swin Transformer V2: Scaling Up Capacity and Resolution. * arXiv: [2112.11699](https://arxiv.org/abs/2112.11699)
+
+[6] Ren, S., He, K., Girshick, R., & Sun, J. (2015). Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks. * arXiv: [1506.01497](https://arxiv.org/abs/1506.01497)
+
+[7] Redmon, J., Divvala, S., Girshick, R., & Farhadi, A. (2015). You Only Look Once: Unified, Real-Time Object Detection. * arXiv: [1506.02640](https://arxiv.org/abs/1506.02640)
+
+[8] Zhao, J., et al. (2025). A comprehensive review on object detection in drone-based remote sensing images. * Journal: [ScienceDirect (Engineering Applications of AI)](https://www.sciencedirect.com/science/article/pii/S0952197625001988)
+
+[9] Wu, X., et al. (2023). Object Detection in Remote Sensing Images Based on Improved YOLOv7 and Transformer. * Journal: [MDPI Sensors](https://www.mdpi.com/1424-8220/23/16/7190)
+
+[10] Zhu, L., et al. (2021). TPH-YOLOv5: Improved YOLOv5 Based on Transformer Prediction Head for Object Detection on Drone-captured Scenarios. * Conference: [ICCVW 2021](https://openaccess.thecvf.com/content/ICCV2021W/VisDrone/html/Zhu_TPH-YOLOv5_Improved_YOLOv5_Based_on_Transformer_Prediction_Head_for_Object_ICCVW_2021_paper.html)
+
+[11] DeepSeek-AI. (2025). DeepSeek-V3 Technical Report. * arXiv: [2501.17983](https://arxiv.org/pdf/2501.17983v2)
+
+[12] Wang, H., et al. (2022). Hybrid Convolutional-Transformer framework for drone-based few-shot weakly supervised object detection. * Journal: [ScienceDirect (Computers and Electrical Engineering)](https://www.sciencedirect.com/science/article/abs/pii/S0045790622004025)
