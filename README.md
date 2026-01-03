@@ -1,38 +1,7 @@
-<div align="center"> 
-    <p>
-        <span style="font-size: 40px; font-weight: bold">
-            INTRODUCTION TO DEEP LEARNING
-        </span>
-    </p>
-</div>
-<div align="center"> 
-    <p>
-        <span style="font-size: 32px; font-weight: bold">
-            AEROEYES <br>
-            Finding and Rescuing with AI-Powered Drones
-        </span>
-    </p>
-</div>
-
-<div align="center"> 
-    <p>
-        <span style="font-size: 24px; font-weight: bold">
-            <i>
-                README 
-            </i>
-        </span>
-    </p>
-</div>
-
-<div align="center"> 
-    <p>
-        <span style="font-size: 14px">
-            <i>
-                Jan 3, 2026
-            </i>
-        </span>
-    </p>
-</div>
+<h1 align="center">INTRODUCTION TO DEEP LEARNING</h1>
+<h2 align="center">AEROEYES<br>Finding and Rescuing with AI-Powered Drones</h2>
+<h3 align="center"><i>README</i></h3>
+<p align="center"><i>Jan 3, 2026</i></p>
 
 | Name | ID |
 | --- | --- |
