@@ -13,7 +13,7 @@
 <div style="text-align: center;"> 
     <span style="font-size: 24px; font-weight: bold">
         <i>
-            README
+            README 
         </i>
     </span>
 </div>
