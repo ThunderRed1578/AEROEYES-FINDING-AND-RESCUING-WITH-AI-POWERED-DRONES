@@ -67,7 +67,7 @@ VI. [Reference](#vi)
 
 AeroEyes is a specialized computer vision solution developed for the Zalo AI Challenge 2025 (AeroEyes task), addressing the critical need for automated object detection in disaster response scenarios. This project focuses on reference-based object search, where the goal is to localize specific target objects (both spatially and temporally) within drone-captured videos, given only a small set of reference images.  
 
-Traditional object detection methods often struggle with aerial imagery due to small object sizes, extreme viewpoint variations, and the lack of extensive annotated datasets for rare objects. To overcome these challenges, our solution adopts a two-stage framework that explicitly separates offline knowledge acquisition from online real-time deployment.
+Conventional object detection approaches often exhibit degraded performance on aerial imagery, primarily due to small object scales, extreme viewpoint variations, and the limited availability of annotated data for rare categories. To mitigate these challenges, we introduce a two-stage framework that explicitly decouples offline knowledge acquisition from online real-time inference.
 
 ---
 
